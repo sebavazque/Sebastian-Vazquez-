@@ -1,0 +1,20 @@
+{
+ "productos" : [
+
+    {
+        "nombre" : "Pie de cama",
+        "precio" : "$5000"
+
+    },
+    {
+        "nombre":"Porta Macetas",
+        "precio":"$700"
+    },
+    {
+        "nombre":"Huevera",
+        "precio":"$800"
+
+    }
+    
+ ]
+}
